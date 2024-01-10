@@ -1,0 +1,15 @@
+/Users/fthornton/_work/data-app/src/DataApp/bin/Debug/net6.0/DataApp
+/Users/fthornton/_work/data-app/src/DataApp/bin/Debug/net6.0/DataApp.deps.json
+/Users/fthornton/_work/data-app/src/DataApp/bin/Debug/net6.0/DataApp.runtimeconfig.json
+/Users/fthornton/_work/data-app/src/DataApp/bin/Debug/net6.0/DataApp.dll
+/Users/fthornton/_work/data-app/src/DataApp/bin/Debug/net6.0/DataApp.pdb
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.AssemblyInfoInputs.cache
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.AssemblyInfo.cs
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.csproj.CoreCompileInputs.cache
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.dll
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/refint/DataApp.dll
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.pdb
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.genruntimeconfig.cache
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/ref/DataApp.dll
+/Users/fthornton/_work/data-app/src/DataApp/obj/Debug/net6.0/DataApp.sourcelink.json

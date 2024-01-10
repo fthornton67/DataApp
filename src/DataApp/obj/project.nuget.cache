@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLfq/zaAL/10HVZG6r0gAAVzHETAmHRo2xv/kGZsgYUBGjFS28dWQzQO6gY2eWLQ/6RL5onfk6d9Q+Pe6Pfwfw==",
+  "success": true,
+  "projectFilePath": "/Users/fthornton/_work/data-app/src/DataApp/DataApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/fthornton/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/fthornton/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/fthornton/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
